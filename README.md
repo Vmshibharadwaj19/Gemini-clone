@@ -4,14 +4,13 @@
 
 # Gemini Clone
 
-![GitHub Created At](https://img.shields.io/github/created-at/Vmshibharadwaj19/Gemini-Clone)
-![Repo Size](https://img.shields.io/github/repo-size/Vmshibharadwaj19/Gemini-Clone)
-![Discussions](https://img.shields.io/github/discussions/Vmshibharadwaj19/Gemini-Clone)
-![License](https://img.shields.io/github/license/Vmshibharadwaj19/Gemini-Clone)
-![Forks](https://img.shields.io/github/forks/Vmshibharadwaj19/Gemini-Clone?style=default)
-![Stars](https://img.shields.io/github/stars/Vmshibharadwaj19/Gemini-Clone?style=default)
-![Vercel Deploy Status](https://deploy-badge.vercel.app/vercel/Gemini-Clone)
-![Wakatime](https://wakatime.com/badge/github/Vmshibharadwaj19/Gemini-Clone.svg)
+![GitHub Created At](https://img.shields.io/github/created-at/Vmshibharadwaj19/Gemini-Clone-main)
+![Repo Size](https://img.shields.io/github/repo-size/Vmshibharadwaj19/Gemini-Clone-main)
+![Discussions](https://img.shields.io/github/discussions/Vmshibharadwaj19/Gemini-Clone-main)
+![License](https://img.shields.io/github/license/Vmshibharadwaj19/Gemini-Clone-main)
+![Forks](https://img.shields.io/github/forks/Vmshibharadwaj19/Gemini-Clone-main?style=default)
+![Stars](https://img.shields.io/github/stars/Vmshibharadwaj19/Gemini-Clone-main?style=default)
+![Vercel Deploy Status](https://deploy-badge.vercel.app/vercel/Gemini-Clone-main)
 
 </div>
 
