@@ -155,6 +155,19 @@ See the [LICENSE](LICENSE) file for more info.
 
 * **[GreatStack](https://www.youtube.com/@GreatStackDev)** for their awesome [Gemini Clone tutorial](https://youtu.be/0yboGn8errU?feature=shared).
 * **Google** for providing the Gemini API.
+* ---
+
+## 💖 Sponsor This Project
+
+<div align="center">
+
+If you like my work and want to support future projects, consider sponsoring me here:
+
+🌟 [Patreon](https://patreon.com/Vmshibharadwaj19)  
+☕ [Buy Me a Coffee](https://buymeacoffee.com/Vmshibharadwaj19)
+
+</div>
+
 * **Vercel** for free hosting that made this live deployment easy.
 * And a big thank you to the **open-source community**! 💖
 
